@@ -23,9 +23,13 @@ Next step is to install re dependencies. To do this run the following command.
 
 ## Running the program
 
-To run the program, run the following command:
+To run the program with the default values, run the following command:
 
 ``python main.py``
+
+If you would like to input a target file to read from a and a target file to write to, run the following command
+
+``python main.py --file_to_read 'location_of_file_to_read_from' --file_to_write 'location_of_file_to_write_to'``
 
 ## Testing the program
 

@@ -3,13 +3,13 @@ import json
 from num2words import num2words
 
 class GenerateSchema:
-    def __init__(self, file_to_read: str = './data/data_1.json', file_to_write: str = './schema/schema_1.json'):
+    def __init__(self, file_to_read: str, file_to_write: str):
         self.read_file_name: str = file_to_read
         self.write_file_name: str = file_to_write
         self.json_data: Dict = {}
         self.result: Dict[str, List[str]] = {}
 
-    def read_json(self) -> Dict:
+    def read_json(self) -> None:
         """
         Reads the JSON and loads the data.
         """
@@ -41,10 +41,13 @@ class GenerateSchema:
         elif item_type == 'int':
             return 'integer'
         elif item_type == 'list':
-            if type(item[0]).__name__ == 'str':
-                return  'ENUM'
-            if type(item[0]).__name__ == 'dict':
-                return 'ARRAY'
+            if item:
+                if type(item[0]).__name__ == 'str':
+                    return  'ENUM'
+                if type(item[0]).__name__ == 'dict':
+                    return 'ARRAY'
+            else:
+                return 'list'
         else:
             return item_type
         

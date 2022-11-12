@@ -1,0 +1,74 @@
+{
+    "key_one": {
+        "type": "dict",
+        "tag": "",
+        "description": "",
+        "required": false
+    },
+    "key_two": {
+        "type": "integer",
+        "tag": "",
+        "description": "",
+        "required": false
+    },
+    "key_three": {
+        "type": "list",
+        "tag": "",
+        "description": "",
+        "required": false
+    },
+    "key_four": {
+        "type": "bool",
+        "tag": "",
+        "description": "",
+        "required": false
+    },
+    "key_five": {
+        "type": "ENUM",
+        "tag": "",
+        "description": "",
+        "required": false
+    },
+    "key_six": {
+        "type": "bool",
+        "tag": "",
+        "description": "",
+        "required": false
+    },
+    "key_seven": {
+        "type": "string",
+        "tag": "",
+        "description": "",
+        "required": false
+    },
+    "key_eight": {
+        "type": "string",
+        "tag": "",
+        "description": "",
+        "required": false
+    },
+    "key_nine": {
+        "type": "string",
+        "tag": "",
+        "description": "",
+        "required": false
+    },
+    "key_ten": {
+        "type": "string",
+        "tag": "",
+        "description": "",
+        "required": false
+    },
+    "key_eleven": {
+        "type": "string",
+        "tag": "",
+        "description": "",
+        "required": false
+    },
+    "key_twelve": {
+        "type": "string",
+        "tag": "",
+        "description": "",
+        "required": false
+    }
+}
