@@ -3,7 +3,7 @@ import json
 from num2words import num2words
 
 class GenerateSchema:
-    def __init__(self, file_to_read: str, file_to_write: str):
+    def __init__(self, file_to_read: str = './data/data_1.json', file_to_write: str = './schema/schema_1.json'):
         self.read_file_name: str = file_to_read
         self.write_file_name: str = file_to_write
         self.json_data: Dict = {}
