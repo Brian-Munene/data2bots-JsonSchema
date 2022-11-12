@@ -1,0 +1,206 @@
+{
+    "key_one": {
+        "type": "dict",
+        "tag": "",
+        "description": "",
+        "required": false
+    },
+    "key_two": {
+        "type": "dict",
+        "tag": "",
+        "description": "",
+        "required": false
+    },
+    "key_three": {
+        "type": "ENUM",
+        "tag": "",
+        "description": "",
+        "required": false
+    },
+    "key_four": {
+        "type": "string",
+        "tag": "",
+        "description": "",
+        "required": false
+    },
+    "key_five": {
+        "type": "string",
+        "tag": "",
+        "description": "",
+        "required": false
+    },
+    "key_six": {
+        "type": "string",
+        "tag": "",
+        "description": "",
+        "required": false
+    },
+    "key_seven": {
+        "type": "dict",
+        "tag": "",
+        "description": "",
+        "required": false
+    },
+    "key_eight": {
+        "type": "string",
+        "tag": "",
+        "description": "",
+        "required": false
+    },
+    "key_nine": {
+        "type": "integer",
+        "tag": "",
+        "description": "",
+        "required": false
+    },
+    "key_ten": {
+        "type": "integer",
+        "tag": "",
+        "description": "",
+        "required": false
+    },
+    "key_eleven": {
+        "type": "integer",
+        "tag": "",
+        "description": "",
+        "required": false
+    },
+    "key_twelve": {
+        "type": "dict",
+        "tag": "",
+        "description": "",
+        "required": false
+    },
+    "key_thirteen": {
+        "type": "ARRAY",
+        "tag": "",
+        "description": "",
+        "required": false
+    },
+    "key_fourteen": {
+        "type": "string",
+        "tag": "",
+        "description": "",
+        "required": false
+    },
+    "key_fifteen": {
+        "type": "string",
+        "tag": "",
+        "description": "",
+        "required": false
+    },
+    "key_sixteen": {
+        "type": "string",
+        "tag": "",
+        "description": "",
+        "required": false
+    },
+    "key_seventeen": {
+        "type": "string",
+        "tag": "",
+        "description": "",
+        "required": false
+    },
+    "key_eighteen": {
+        "type": "string",
+        "tag": "",
+        "description": "",
+        "required": false
+    },
+    "key_nineteen": {
+        "type": "string",
+        "tag": "",
+        "description": "",
+        "required": false
+    },
+    "key_twenty": {
+        "type": "integer",
+        "tag": "",
+        "description": "",
+        "required": false
+    },
+    "key_twenty-one": {
+        "type": "integer",
+        "tag": "",
+        "description": "",
+        "required": false
+    },
+    "key_twenty-two": {
+        "type": "string",
+        "tag": "",
+        "description": "",
+        "required": false
+    },
+    "key_twenty-three": {
+        "type": "string",
+        "tag": "",
+        "description": "",
+        "required": false
+    },
+    "key_twenty-four": {
+        "type": "integer",
+        "tag": "",
+        "description": "",
+        "required": false
+    },
+    "key_twenty-five": {
+        "type": "integer",
+        "tag": "",
+        "description": "",
+        "required": false
+    },
+    "key_twenty-six": {
+        "type": "dict",
+        "tag": "",
+        "description": "",
+        "required": false
+    },
+    "key_twenty-seven": {
+        "type": "string",
+        "tag": "",
+        "description": "",
+        "required": false
+    },
+    "key_twenty-eight": {
+        "type": "string",
+        "tag": "",
+        "description": "",
+        "required": false
+    },
+    "key_twenty-nine": {
+        "type": "string",
+        "tag": "",
+        "description": "",
+        "required": false
+    },
+    "key_thirty": {
+        "type": "string",
+        "tag": "",
+        "description": "",
+        "required": false
+    },
+    "key_thirty-one": {
+        "type": "string",
+        "tag": "",
+        "description": "",
+        "required": false
+    },
+    "key_thirty-two": {
+        "type": "string",
+        "tag": "",
+        "description": "",
+        "required": false
+    },
+    "key_thirty-three": {
+        "type": "string",
+        "tag": "",
+        "description": "",
+        "required": false
+    },
+    "key_thirty-four": {
+        "type": "string",
+        "tag": "",
+        "description": "",
+        "required": false
+    }
+}
